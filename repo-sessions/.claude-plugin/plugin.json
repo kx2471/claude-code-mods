@@ -1,0 +1,6 @@
+{
+  "name": "repo-sessions",
+  "version": "0.2.0",
+  "description": "/sessions: 같은 git 저장소(메인 + 모든 worktree)의 세션을 패널로 보여주고 키보드·마우스로 전환",
+  "types": "./types/index.d.ts"
+}

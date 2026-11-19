@@ -1,0 +1,25 @@
+{
+  "name": "my-mods",
+  "owner": {
+    "name": "sangok.kim"
+  },
+  "description": "Personal Claude Code mods",
+  "plugins": [
+    {
+      "name": "tool-counter",
+      "source": "./tool-counter"
+    },
+    {
+      "name": "usage-band",
+      "source": "./usage-band"
+    },
+    {
+      "name": "repo-sessions",
+      "source": "./repo-sessions"
+    },
+    {
+      "name": "todo-panel",
+      "source": "./todo-panel"
+    }
+  ]
+}

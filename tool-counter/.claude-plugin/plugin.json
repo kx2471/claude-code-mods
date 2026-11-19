@@ -1,0 +1,6 @@
+{
+  "name": "tool-counter",
+  "version": "0.1.0",
+  "description": "Shows how many tool calls Claude has made next to the spinner",
+  "author": { "name": "sangok.kim" }
+}

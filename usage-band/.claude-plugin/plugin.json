@@ -1,0 +1,7 @@
+{
+  "name": "usage-band",
+  "version": "0.7.0",
+  "description": "Shows context fill, rate-limit usage and cost above the prompt; keeps Claude's checklist for todo-panel",
+  "author": { "name": "sangok.kim" },
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "todo-panel",
+  "version": "0.1.0",
+  "description": "A panel of this session's todos: Claude's tracked tasks ticked off as they finish, plus your own per-workspace items.",
+  "author": { "name": "sangok.kim" },
+  "types":"./types/index.d.ts"
+}
